@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Data Entry</string>
+    <!-- button -->
+    <string name="button_ok">OK</string>
+    <!-- checkBox -->
+    <string name="check_agree_to_terms">You agree to these terms.</string>
+    <string name="check_language_C">C</string>
+    <string name="check_language_Java">Java</string>
+    <string name="check_language_Python">Python</string>
+    <string name="check_others">Others</string>
+    <!-- editText -->
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_email_address">Email address</string>
+    <string name="hint_phone_number">Phone number</string>
+    <string name="hint_staying_address">Staying address</string>
+    <string name="hint_hometown">Hometown</string>
+    <string name="hint_ID_number">ID number</string>
+    <string name="hint_student_code">Student code</string>
+    <!-- radioButton -->
+    <string name="radio_computer_engineering">Computer engineering.</string>
+    <string name="radio_computer_science">Computer science.</string>
+    <!-- textView -->
+    <string name="text_full_name">Full name:</string>
+    <string name="text_email_address">Email address:</string>
+    <string name="text_phone_number">Phone number:</string>
+    <string name="text_studying_industry">Studying industry:</string>
+    <string name="text_staying_address">Staying address:</string>
+    <string name="text_hometown">Hometown:</string>
+    <string name="text_date_of_birth">Date of birth:</string>
+    <string name="text_format_date">dd/MM/yyyy</string>
+    <string name="text_date">%s</string>
+    <string name="text_ID_number">ID number:</string>
+    <string name="text_student_code">Student code:</string>
+    <string name="text_programming_language">Programming language:</string>
+    <!-- Toast -->
+    <string name="toast_successful">Successful data entry.</string>
+    <!-- ToggleButton -->
+    <string name="toggle_choose_date">Choose date</string>
+    <string name="toggle_show_calendar">Show calendar</string>
+</resources>

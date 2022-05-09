@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Data Entry</string>
+    <!-- button -->
+    <string name="button_ok">OK</string>
+    <!-- checkBox -->
+    <string name="check_agree_to_terms">Bạn đồng ý với các điều khoản này.</string>
+    <string name="check_language_C">C</string>
+    <string name="check_language_Java">Java</string>
+    <string name="check_language_Python">Python</string>
+    <string name="check_others">khác</string>
+    <!-- editText -->
+    <string name="hint_full_name">Họ và tên</string>
+    <string name="hint_email_address">Địa chỉ email</string>
+    <string name="hint_phone_number">Số điện thoại</string>
+    <string name="hint_staying_address">Nơi ở hiện tại</string>
+    <string name="hint_hometown">Quê quán</string>
+    <string name="hint_ID_number">Số căn cước công dân</string>
+    <string name="hint_student_code">Mã số sinh viên</string>
+    <!-- radioButton -->
+    <string name="radio_computer_engineering">Kỹ thuật máy tính.</string>
+    <string name="radio_computer_science">Khoa học máy tính.</string>
+    <!-- textView -->
+    <string name="text_full_name">Họ và tên:</string>
+    <string name="text_email_address">Địa chỉ email:</string>
+    <string name="text_phone_number">Số điện thoại:</string>
+    <string name="text_studying_industry">Ngành học hiện tại:</string>
+    <string name="text_staying_address">Nơi ở hiện tại:</string>
+    <string name="text_hometown">Quê quán:</string>
+    <string name="text_date_of_birth">Ngày tháng năm sinh:</string>
+    <string name="text_format_date">dd/MM/yyyy</string>
+    <string name="text_date">%s</string>
+    <string name="text_ID_number">Số CCCD:</string>
+    <string name="text_student_code">MSSV:</string>
+    <string name="text_programming_language">Ngôn ngữ lập trình:</string>
+    <!-- Toast -->
+    <string name="toast_successful">Nhập dữ liệu thành công.</string>
+    <!-- ToggleButton -->
+    <string name="toggle_choose_date">Chọn ngày</string>
+    <string name="toggle_show_calendar">Mở lịch</string>
+</resources>
